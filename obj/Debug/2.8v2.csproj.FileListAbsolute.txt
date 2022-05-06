@@ -1,0 +1,11 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\bin\Debug\2.8v2.exe.config
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\bin\Debug\2.8v2.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\bin\Debug\2.8v2.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\_2._8v2.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\_2._8v2.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\2.8v2\obj\Debug\2.8v2.pdb
