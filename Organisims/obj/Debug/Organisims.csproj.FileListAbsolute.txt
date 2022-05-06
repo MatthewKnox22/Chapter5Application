@@ -1,0 +1,12 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\bin\Debug\Organisims.exe.config
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\bin\Debug\Organisims.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\bin\Debug\Organisims.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Organisims\obj\Debug\Organisims.Organisims.resources

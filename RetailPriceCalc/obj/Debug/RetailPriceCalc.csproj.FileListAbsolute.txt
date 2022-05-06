@@ -1,0 +1,11 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\bin\Debug\RetailPriceCalc.exe.config
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\bin\Debug\RetailPriceCalc.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\bin\Debug\RetailPriceCalc.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\RetailPriceCalc\obj\Debug\RetailPriceCalc.pdb

@@ -1,0 +1,7 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Chap5Assignment\Chap5Assignment\obj\Debug\Chap5Assignment.DistCalc.resources

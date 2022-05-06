@@ -1,0 +1,11 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\bin\Debug\DiceRoller.exe.config
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\bin\Debug\DiceRoller.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\bin\Debug\DiceRoller.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\DiceRoller\obj\Debug\DiceRoller.pdb

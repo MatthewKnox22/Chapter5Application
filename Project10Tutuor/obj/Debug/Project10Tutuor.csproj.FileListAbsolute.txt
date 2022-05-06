@@ -1,0 +1,11 @@
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\bin\Debug\Project10Tutuor.exe.config
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\bin\Debug\Project10Tutuor.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\bin\Debug\Project10Tutuor.pdb
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.csproj.AssemblyReference.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.csproj.SuggestedBindingRedirects.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.Form1.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.Properties.Resources.resources
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.csproj.GenerateResource.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.csproj.CoreCompileInputs.cache
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.exe
+C:\Users\mknox\iCloudDrive\Programs\School\C#_Programs\Chapter5Assignment\Project10Tutuor\obj\Debug\Project10Tutuor.pdb
